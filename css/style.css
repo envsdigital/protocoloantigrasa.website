@@ -148,7 +148,6 @@ h6 {
 
 .six-header {
     background: url(../images/bg.jpg);
-    background-color: rgba(0, 0, 0, .08);
     background-size: cover;
     position: relative
 }
@@ -492,9 +491,7 @@ h6 {
     background-size: cover;
     position: relative;
     overflow: hidden;
-    background-attachment: fixed;
-    background-color: rgba(0, 0, 0, .08);
-
+    background-attachment: fixed
 }
 
 .sp-off:before {
@@ -525,9 +522,7 @@ h6 {
 .spl-offer {
     background: url(../images/head-bg.png);
     position: relative;
-    overflow: hidden;
-    background-color: rgba(0, 0, 0, .08);
-
+    overflow: hidden
 }
 
 .alerta {
@@ -1096,12 +1091,11 @@ h6 {
     padding-right: 0 !important;
     margin-top: 20px;
     padding: 22px 44px;
-    border-color: #f82e75;
+    border-color: #ff0059;
     border-width: 0;
     border-radius: 6px;
-    background: linear-gradient(to bottom, #769228 0%, #b0f000 100%);
+    background: linear-gradient(to bottom, #ff3f83 0%, #ff0059 100%);
     box-shadow: 0 1px 1px 0 rgba(0, 0, 0, .5);
-    border: 15px solid #f82e75;
     text-decoration: none !important
 }
 
@@ -1137,7 +1131,7 @@ h6 {
     z-index: 1;
     margin: 15px 0 -.5em;
     font-size: 15px;
-    color: red;
+    color: #bfeb93;
     font-weight: 700
 }
 
